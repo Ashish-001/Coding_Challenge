@@ -1,0 +1,7 @@
+com\challange\communication\util\Constants.class
+com\challange\communication\api\BaseApi.class
+com\challange\communication\player\PlayerBuilder.class
+com\challange\communication\api\Client.class
+com\challange\communication\App.class
+com\challange\communication\player\Player.class
+com\challange\communication\api\Server.class
